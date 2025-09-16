@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Yousef Senada Banner" width="100%"/>
+  <img src="Banner.png" alt="Yousef Senada Banner" width="100%"/>
 </div>
 
 <div align="center">
