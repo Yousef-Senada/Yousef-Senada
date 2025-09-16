@@ -112,8 +112,8 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Senada&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousef-Senada&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="GitHub Streak"/>
+<div align="center">  
+  <img src="https://streak-stats.demolab.com?user=Yousef-Senada&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="GitHub Streak"/> 
 </div>
 
 <div align="center">
