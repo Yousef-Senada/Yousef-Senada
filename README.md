@@ -2,7 +2,7 @@
   <img src="Banner.png" alt="Yousef Senada Banner" width="100%"/>
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Machine+Learning+Engineer;UI%2FUX+Designer;Open+Source+Contributor;From+Egypt+🇪🇬" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Machine+Learning+Engineer;UI%2FUX+Designer;Open+Source+Contributor;From+Egypt+🇪🇬" alt="Typing SVG" />
 
 ---
 
@@ -51,7 +51,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=0D1117" />
 </div>
-
 
 ### ⚙️ **Backend Development**
 
@@ -135,6 +134,7 @@ me.say_hi()
   </a>
 </div>
 
+> 
 > 💡 **Note**: For the most up-to-date resume, please contact me directly at Yousef.a.senada@gmail.com
 
 ## 📊 Contribution Graph
@@ -142,6 +142,7 @@ me.say_hi()
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousef-Senada&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </div>
+
 ---
 
 ## 🎓 Education
@@ -173,9 +174,6 @@ me.say_hi()
   </a>
   <a href="https://www.linkedin.com/in/yousef-senada/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/655025153432092701">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
