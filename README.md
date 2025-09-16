@@ -168,20 +168,14 @@ me.say_hi()
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:osama74454@gmail.com">
+  <a href="Yousef.a.senada@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/youssef-osama-002951250/">
+  <a href="https://www.linkedin.com/in/yousef-senada/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/655025153432092701">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01bf0e2db1d5f133f5?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
-  <a href="https://www.freelancer.com/u/YousefSenada134?sb=t">
-    <img src="https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
   </a>
 </div>
 
